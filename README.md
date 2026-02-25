@@ -16,7 +16,7 @@ and improving my skills step by step.
 
 
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
 \- C++
 
@@ -30,9 +30,8 @@ and improving my skills step by step.
 
 \- Software Design Principles
 
-\---
 
-## 🤝 Open to Collaboration
+### 🤝 Open to Collaboration
 
 If you're working on something interesting, feel free to reach out.
 
@@ -46,7 +45,7 @@ If you're working on something interesting, feel free to reach out.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/funnyfreak228" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@RealFreakxNil" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-### Badges
+### More
 
 <b>My GitHub Stats</b>
 
