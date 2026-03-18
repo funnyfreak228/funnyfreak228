@@ -14,10 +14,6 @@
 
 🌍 Based in Albania  
 
-I enjoy building projects, understanding how things work,  
-and improving my skills step by step.
-
-
 
 ## 🤝 Open to Collaboration
 
