@@ -39,13 +39,3 @@ If you're working on something interesting, feel free to reach out.
 
 
 
-## 🌐 Socials
-
-<p align="center">
-<a href="https://www.github.com/funnyfreak228" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" />
-</a>
-<a href="https://www.youtube.com/@funnyfreak228" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="35" height="35" />
-</a>
-</p>
